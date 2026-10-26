@@ -8,7 +8,7 @@ PURPOSE:
 
 LAYOUT: 
 - Axis 3: Left motor, channel 1
-- Axis 2: Right motor, channel 2
+- Axis 2: Right motor, channel 11
 
 TECHNIQUES: 
 - Used the code from last year as a starting point, drastically reducing the time it took to test and fix.
