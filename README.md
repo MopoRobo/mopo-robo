@@ -2,8 +2,8 @@
 Code for the Mobridge-Pollock robotics team
 Current year: 2026-2027
 
-**2026-2027 Code Documentation
-**
+**2026-2027 Code Documentation**
+
 PURPOSE: 
 Allow the robot to move and interact with its environment, scoring as many points as possible as efficiently and quickly as possible while maintaining natural-feeling controls.
 
