@@ -40,3 +40,7 @@ v0.2.0
 
 v0.2.1
 - Changed right motor from port 2 to port 11
+
+v1.0.0
+- Added servo motor
+- Labelled as competition version
