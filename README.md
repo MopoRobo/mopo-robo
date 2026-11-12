@@ -9,6 +9,8 @@ PURPOSE:
 LAYOUT: 
 - Axis 3: Left motor, channel 1
 - Axis 2: Right motor, channel 11
+- Buttons R1 and R2: Forklift motor, channel 2
+- Button L1: Servo motor, channel H
 
 TECHNIQUES: 
 - Used the code from last year as a starting point, drastically reducing the time it took to test and fix.
@@ -47,3 +49,10 @@ v1.0.0
 
 v1.1.0
 - Readded motor groups that were lost during a programming device change
+- Added fork motor
+
+v1.2.0
+- Changed servo motor so that it would actually move
+- Made it so the default servo position was in instead of out
+- Changed motors to motor controllers so the brain could read them better
+- Changed voltage values in motor code from the original placeholders for optimal speed
