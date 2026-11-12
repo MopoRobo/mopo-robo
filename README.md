@@ -44,3 +44,6 @@ v0.2.1
 v1.0.0
 - Added servo motor
 - Labelled as competition version
+
+v1.1.0
+- Readded motor groups that were lost during a programming device change
