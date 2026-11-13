@@ -56,3 +56,6 @@ v1.2.0
 - Made it so the default servo position was in instead of out
 - Changed motors to motor controllers so the brain could read them better
 - Changed voltage values in motor code from the original placeholders for optimal speed
+
+v1.2.1
+- Changed forklift motor controls to make it more intuitive to use.
