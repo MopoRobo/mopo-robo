@@ -7,7 +7,7 @@ PURPOSE:
 - Allow the robot to move and interact with its environment, scoring as many points as possible as efficiently and quickly as possible while maintaining natural-feeling controls.
 
 LAYOUT: 
-- Axis 3: Left motor, channel 1
+- Axis 3: Left motor, channel 3
 - Axis 2: Right motor, channel 11
 - Buttons R1 and R2: Forklift motor, channel 2
 - Button L1: Servo motor, channel H
@@ -22,7 +22,7 @@ TOOLS:
 
 VERSION NUMBER NAMING SYSTEM:
 x.x.x
-- The first digit is for final competition versions: 1 is for state, 2 is for region, etc. Version 0 is for prototyping purposes only.
+- The first digit is for final competition versions: 1 is for state, 2 is for region. Version 0 is for prototyping purposes only.
 - The second digit is for major changes: adding/removing systems/devices, restructuring, major optimizations, etc. 
 - The third digit is for minor changes: small bug fixes, minor optimizations, etc.
 
@@ -59,3 +59,7 @@ v1.2.0
 
 v1.2.1
 - Changed forklift motor controls to make it more intuitive to use.
+
+v2.0.0
+- Added label to the brain screen
+- Changed port 1 motor controller to port 3
