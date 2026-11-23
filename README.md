@@ -61,5 +61,8 @@ v1.2.1
 - Changed forklift motor controls to make it more intuitive to use.
 
 v2.0.0
-- Added label to the brain screen
+- Added a label to the brain screen
 - Changed port 1 motor controller to port 3
+
+v2.0.1
+- Fixed screen label
